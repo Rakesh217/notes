@@ -1,3 +1,4 @@
-function strReverse(str){
-    split = str.split('').reverse()
+function maxChar(str){
+    word = str;
+    
 }
